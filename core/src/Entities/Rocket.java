@@ -11,9 +11,9 @@ import Helpers.AssetLoader;
 import World.GameRenderer;
 
 public class Rocket {
-    private final float SPEEDLIMIT = 1200f;
+    private final float SPEEDLIMIT = 1000f;
     private final float DRAG = 900f;
-    private final float ACCEL = 2500f;
+    private final float ACCEL = 1400f;
 
     private Vector2 position, velocity, acceleration, drag;
     private Vector3 target;
