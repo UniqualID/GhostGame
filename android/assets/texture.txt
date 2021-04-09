@@ -1,0 +1,40 @@
+texture.png
+size: 250, 806
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cave
+  rotate: false
+  xy: 0, 0
+  size: 250, 640
+  orig: 250, 640
+  offset: 0, 0
+  index: -1
+ghost
+  rotate: false
+  xy: 0, 640
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 102, 640
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+rocket
+  rotate: false
+  xy: 166, 640
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+rocket
+  rotate: false
+  xy: 0, 742
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
